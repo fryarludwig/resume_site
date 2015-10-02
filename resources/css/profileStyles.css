@@ -1,0 +1,67 @@
+/*---------------------------\*
+           GENERAL
+\*---------------------------*/
+
+.mb-wrapper {
+  width: auto;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/*---------------------------\*
+       PROFILE PICTURE
+\*---------------------------*/
+
+.picture {
+  width: 250px;
+  height: 250px;
+  border: 5px solid lightgray;
+  border-radius: 250px;
+}
+
+#profilepicture {
+  width: 300px;
+  height: 300px;
+  padding-top: 50px;
+  font-size: 24px;
+  font-variant: small-caps;
+}
+
+/*---------------------------\*
+            FORM
+\*---------------------------*/
+.form {
+  padding: 50px;
+}
+
+.mb-wrapper form {
+  font-size: 12px;
+  background-color: inherit;
+  padding: 10px;
+}
+
+.mb-wrapper .form input {
+  font-size: 18px;
+  <--box-shadow: 5px 5px 5px black;
+  font-variant: small-caps;
+}
+
+.mb-wrapper .form div {
+  padding: 10px;
+}
+
+#BioBox {
+  height: 100px;
+}
+
+#SaveButton {
+  border-radius: 10px;
+  position:relative;
+}
+
+#SaveDiv {
+  width: 230px;
+  margin-left: auto;
+  margin-right: auto;
+}
